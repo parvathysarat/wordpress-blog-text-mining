@@ -8,5 +8,5 @@ There is also an option to extract your drafts in the <b> GetPosts() </b> call.
 
 Modules -
 1. Data extraction using <b> wordpress_xmlrpc </b>
-2. Word cloud generation using <b> wordcloud </b> 
+2. Word clouds generation using <b> wordcloud </b>- nouns, verbs, adjectives
 3. Topic modeling using latent dirichlet allocation (<b>gensim, nltk, spaCy</b>) - 12 generated topics visualized using <b> pyLDAvis </b> (refer<i> topicmodeling_vis.html</i>)
