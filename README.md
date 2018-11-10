@@ -11,4 +11,4 @@ Modules -
 2. Word clouds generation using <b> wordcloud </b>- nouns, verbs, adjectives
 3. Topic modeling using latent dirichlet allocation (<b>gensim, nltk, spaCy</b>) - 12 generated topics visualized using <b> pyLDAvis </b> (refer<i> topicmodeling_vis.html</i>)
 
-pyLDAvis visualization - http://htmlpreview.github.io/?https://github.com/parvathysarat/wordpress-blog-text-mining/blob/master/index.html
+pyLDAvis visualization - http://htmlpreview.github.io/?https://github.com/parvathysarat/wordpress-blog-text-mining/blob/master/topicmodeling_vis.html
